@@ -1,0 +1,38 @@
+*
+{
+  padding: 0;
+  margin: 0;
+}
+
+.one
+{
+    width: 400px;
+    height: 300px;
+    background-color:#fd6600;
+    color: white;
+    margin: 20px;
+    text-align: center;
+    border-radius: 25px;
+    line-height: 30px;
+    padding: 20px;
+
+}
+
+.one p{
+    text-align: justify;
+}
+
+.two{
+    background-color: #3b3465;
+}
+
+.main{
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+}
+.my{
+    color: #fd6600;
+    text-align: center;
+}
+
